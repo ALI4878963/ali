@@ -1,4 +1,4 @@
-aiogram
+python-telegram-bot==20.3
+httpx
 requests
 python-dotenv
-httpx
